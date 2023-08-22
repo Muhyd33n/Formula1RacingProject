@@ -11,7 +11,7 @@ spark.conf.set(
 
     "fs.azure.account.key.projectformular1dl.dfs.core.windows.net", 
     dbutils.secrets.get('Formula1-scope', 'formular1dl-account-key')
-    "xVZ8jn7Z3vdN7Jd1LZwV9m1tXD7AdttYuW2hWAabTeosVZsFwfi33DOCuPsQazqdG9GqswNHtpTd+AStKLM7xQ=="
+    "xVZ8jn7Z3vdN7Jd1LZwV9mtXD7AdttYuW2hWAabwfi33DOCuPsQazqdG9GqswNHtpTd+AStKLM7xQ=="
 )
 
 # COMMAND ----------
