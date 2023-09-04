@@ -1,8 +1,8 @@
-Cloud Data Platform: Formula 1 Race Data Analysis with Azure Databricks
+# Cloud Data Platform: Formula 1 Race Data Analysis with Azure Databricks
 
-This project showcases my journey through learning azure databricks, Azure services,Data Architecture and Data Engineering Lifecycle 
+This project showcases my journey through learning Azure Databricks, Azure services, Data Architecture, and Data Engineering Lifecycle 
 
-Project Overview
+## Project Overview
 In this project, I'm learning Data engineering Lifecycle which Data generation, Storage, Ingestion, Transformation and Serving. Here are the main components and steps I've undertaken:
 
 Data Ingestion: I've integrated an External API, specifically the ErgastAPI, to pull Formula 1 race data. This data is ingested into Azure Data Lake Storage using Azure Data Factory pipelines.
@@ -17,7 +17,7 @@ Data Lakehouse Architecture with Delta Lake: I will be  exploring the emerging d
 
 Security: Recognizing the importance of data security, I've implemented access controls and security measures to ensure data integrity and compliance.
 
-Technologies and Tools
+## Technologies and Tools
 This project enables me to gain production knowledge in a variety of technologies and tools, including:
 
 Microsoft Azure Portal: For managing cloud resources and services.
