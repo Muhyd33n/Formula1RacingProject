@@ -5,13 +5,13 @@ This project showcases my journey through learning Azure Databricks, Azure servi
 ## Project Overview
 In this project, I'm learning Data engineering Lifecycle which Data generation, Storage, Ingestion, Transformation and Serving. Here are the main components and steps I've undertaken:
 
-Data Ingestion: I've integrated an External API, specifically the ErgastAPI, to pull Formula 1 race data. This data is ingested into Azure Data Lake Storage using Azure Data Factory pipelines.
+Data Ingestion:Currently the dataset is ingested manually into the datalake object storage. Later, I will be  integrating an External API, specifically the ErgastAPI, to pull Formula 1 race data. This data is will be ingested into Azure Data Lake Storage using Azure Data Factory pipelines.
 
 Data Transformation: Raw race data is transformed into a structured format suitable for analysis. I've employed data cleansing techniques and performed enrichment to enhance its quality.
 
 Presentation Layer: The transformed data is organized in a way that simplifies access and analysis, providing a solid foundation for insights generation.
 
-Interactive Dashboards: I  created interactive and visually appealing dashboards using Power BI, allowing users to intuitively explore the analyzed data.
+Interactive Dashboards: I  will create an interactive and visually appealing dashboards using Power BI, allowing users to intuitively explore the analyzed data.
 
 Data Lakehouse Architecture with Delta Lake: I will be  exploring the emerging data lakehouse architecture and implementing it using Delta Lake.
 
