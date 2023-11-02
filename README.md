@@ -1,6 +1,6 @@
 # Cloud Data Platform: Formula 1 Race Data Analysis with Azure Databricks
 
-This project showcases my journey through learning Azure Databricks, Azure services, Data Architecture, and Data Engineering Lifecycle 
+This project showcases my journey through learning Azure Databricks, and Data Engineering Lifecycle 
 
 ## Project Overview
 In this project, I'm learning Data engineering Lifecycle which Data generation, Storage, Ingestion, Transformation and Serving. Here are the main components and steps I've undertaken:
